@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Personality Test</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="startPage">
+    <div class="card">
+      <h1>Know your Personality</h1>
+      <p>Curious about your Personality? let's test it.</p>
+
+      <button id="startBtn">Start</button>
+    </div>
+  </div>
+
+  <div class="questionsPage hidden">
+    <div class="card">
+      <div id="progress"></div>
+        <h2 id="question"></h2>
+        <div id="options"></div>
+    </div>
+  </div>
+
+  <div class="resultsPage hidden">
+    <div class="card">
+      <div id="resultTitle"></div>
+        <h2 id="resultDesc"></h2>
+        
+        <button id="shareBtn"> Share</button>
+        <button id="resetBtn">Reset</button>
+    </div>
+  </div>
+
+  <script src="/script.js"></script>
+</body>
+</html>

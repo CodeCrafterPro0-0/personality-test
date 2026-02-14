@@ -1,0 +1,121 @@
+[
+    {
+        "text" : "When making decisions, you rely more on:",
+        "options" : [
+            { "text": "Logic and facts", "type": "Strategist"},
+            { "text": "Gut feeling", "type": "Harmonizer"},
+            { "text": "Advice from others", "type": "Harmonizer"},
+            { "text": "Time — I wait and see", "type": "Free Spirit"}
+        ]
+    },
+
+    {
+        "text" : "Your relationship with time is:",
+        "options" : [
+            { "text": "I plan everything", "type": "Strategist"},
+            { "text": "I go with the flow", "type": "Free Spirit"},
+            { "text": "I procrastinate often", "type": "Harmonizer"},
+            { "text": "I work best under pressure", "type": "Visionary"}
+        ]
+    },
+
+    {
+        "text" : "In conversations, you usually:",
+        "options" : [
+            { "text": "Listen more than you speak", "type": "Harmonizer"},
+            { "text": "Speak confidently", "type": "Visionary"},
+            { "text": "Observe and analyze", "type": "Strategist"},
+            { "text": "Match the other person’s energy", "type": "Free Spirit"}
+        ]
+    },
+
+    {
+        "text" : "When something goes wrong, you:",
+        "options" : [
+            { "text": "Fix it immediately", "type": "Visionary"},
+            { "text": "Blame yourself", "type": "Harmonizer"},
+            { "text": "Look for lessons", "type": "Strategist"},
+            { "text": "Avoid thinking about it", "type": "Free Spirit"}
+        ]
+    },
+
+    {
+        "text" : "You value more:",
+        "options" : [
+            { "text": "Intelligence", "type": "Strategist"},
+            { "text": "Loyalty", "type": "Harmonizer"},
+            { "text": "Freedom", "type": "Free Spirit"},
+            { "text": "Discipline", "type": "Visionary"}
+        ]
+    },
+
+    {
+        "text" : "Success to you means:",
+        "options" : [
+            { "text": "Financial independence", "type": "Visionary"},
+            { "text": "Inner peace", "type": "Harmonizer"},
+            { "text": "Recognition", "type": "Visionary"},
+            { "text": "Mastery of a skill", "type": "Strategist"}
+        ]
+    },
+
+    {
+        "text" : "If you had unlimited freedom, you would:",
+        "options" : [
+            { "text": "Travel", "type": "Free Spirit"},
+            { "text": "Build something meaningful", "type": "Visionary"},
+            { "text": "Relax", "type": "Free Spirit"},
+            { "text": "Study and grow", "type": "Strategist"}
+        ]
+    },
+
+    {
+        "text" : "In relationships, you are:",
+        "options" : [
+            { "text": "Deep but selective", "type": "Harmonizer"},
+            { "text": "Warm and expressive", "type": "Harmonizer"},
+            { "text": "Protective", "type": "Visionary"},
+            { "text": "Independent", "type": "Free Spirit"}
+        ]
+    },
+
+    {
+        "text" : "Your biggest internal struggle:",
+        "options" : [
+            { "text": "Overthinking", "type": "Strategist"},
+            { "text": "Self-doubt", "type": "Harmonizer"},
+            { "text": "Impatience", "type": "Visionary"},
+            { "text": "Lack of consistency", "type": "Strategist"}
+        ]
+    },
+
+    {
+        "text" : "When competing with others:",
+        "options" : [
+            { "text": "I stay silent and improve", "type": "Strategist"},
+            { "text": "I openly compete", "type": "Visionary"},
+            { "text": "I compare myself a lot", "type": "Harmonizer"},
+            { "text": "I avoid competition", "type": "Free Spirit"}
+        ]
+    },
+
+    {
+        "text" : "What scares you more?",
+        "options" : [
+            { "text": "Being misunderstood", "type": "Harmonizer"},
+            { "text": "Being forgotten", "type": "Visionary"},
+            { "text": "Not reaching potential", "type": "Visionary"},
+            { "text": "Losing control", "type": "Strategist"}
+        ]
+    },
+
+    {
+        "text" : "Deep down, you are:",
+        "options" : [
+            { "text": "More emotional than people think", "type": "Harmonizer"},
+            { "text": "More ambitious than people think", "type": "Visionary"},
+            { "text": "More insecure than people think", "type": "Harmonizer"},
+            { "text": "More disciplined than people think", "type": "Strategist"}
+        ]
+    }
+]
